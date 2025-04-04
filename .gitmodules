@@ -1,3 +1,6 @@
 [submodule "ToDoList"]
 	path = ToDoList
 	url = https://github.com/aniisadwii/AnisaDwiLestari_TechChallenge_To-doList_02.git
+[submodule "ToggleDarkLight"]
+	path = ToggleDarkLight
+	url = https://github.com/aniisadwii/AnisaDwiLestari_TechChallenge_ToggleLightDarkMode_02.git
